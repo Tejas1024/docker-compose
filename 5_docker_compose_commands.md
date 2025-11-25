@@ -40,9 +40,9 @@
 Open shell inside container named "web":
 docker compose exec web bash
 
-text
+ 
 
 List files in "nginx-container":
 docker compose exec nginx-container ls
 
-text
+ 
